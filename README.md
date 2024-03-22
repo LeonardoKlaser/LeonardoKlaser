@@ -1,8 +1,7 @@
 ### Eaai! Eu sou o Leonardo Klaser.
 
-- 🔭 Procurando o 1º emprego para expandir meus conhecimentos.
-- 🌱 Estudando Python, HTML, CSS e JavaScript.
-- 📒 Todo conhecimento é bem vindo.
+- 📒 Software Developer.
+- 🌱 Python, C, C++, HTML e CSS.
 
 ##
 
