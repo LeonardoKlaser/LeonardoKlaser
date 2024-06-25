@@ -1,7 +1,7 @@
 ### Eaai! Eu sou o Leonardo Klaser.
 
 - 📒 Software Developer.
-- 🌱 Python, C, C++, HTML e CSS.
+- 🌱 C# e React
 
 ##
 
