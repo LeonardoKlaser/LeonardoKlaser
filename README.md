@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Leonardo Klaser 👋
 
-- 🖥️ **Software Developer**
-- 🚀 Apaixonado por tecnologia e desenvolvimento
-- 💻 Atualmente programando em **C#**, **React**, **JavaScript**, **TypeScript**, **Java** e **Go**
+- 🖥️ **Full Stack Software Developer**
+- 💻 Actually programing in **C#**,**ASP.NET CORE**, **React**, **JavaScript**, **TypeScript**, **Java**, **Spring Boot** and **Android Studio**
 
 ---
 
@@ -41,10 +40,6 @@
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoKlaser&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoKlaser&theme=dracula"/>
 </div>
 
-
-<!--
-Dica: Se o card de "Top Languages" não mostrar corretamente, certifique-se de que o username está correto e que você tem repositórios públicos suficientes para análise.
--->
