@@ -41,5 +41,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoKlaser&theme=dracula" alt="Leonardo Klaser Streak Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoKlaser&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+<!--
+Dica: Se o card de "Top Languages" não mostrar corretamente, certifique-se de que o username está correto e que você tem repositórios públicos suficientes para análise.
+-->
