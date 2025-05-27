@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Klaser 👋
 
 - 🖥️ **Full Stack Software Developer**
-- 💻 Actually programing in **C#**,**ASP.NET CORE**, **React**, **JavaScript**, **TypeScript**, **Java**, **Spring Boot** and **Android Studio**
+- 💻 Actually programing in **React**, **JavaScript**, **TypeScript**, **Java**, **Spring Boot** and **GO**
 
 ---
 
