@@ -1,10 +1,15 @@
 ### Olá! Eu sou o Leonardo Klaser 👋
 
 - 🖥️ **Full Stack Software Developer**
-- 💻 Actually programing in **React**, **JavaScript**, **TypeScript**, **Java**, **Spring Boot** and **GO**
+#### 🌱 Actually Learning
+- Golang
+- Docker/Kubernetes
+- Cloud Services
+---
+#### 💼 Working on
+- [ScrapJobs](./ScrapJobs) - A SaaS platform designed to extract job openings from multiple career sites. Sends a consolidated report to registered users, enriched with AI analytics.
 
 ---
-
 <div>
   <a href="https://github.com/LeonardoKlaser">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoKlaser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,10 +27,14 @@
   <img align="center" alt="Leo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Leo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Leo-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Leo-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Leo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Leo-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
 </div>
 
 ---
