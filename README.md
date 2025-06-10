@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo Klaser 👋
+### Hi there! I'm Leonardo Klaser 👋
 
 - 🖥️ **Full Stack Software Developer**
 #### 🌱 Actually Learning
@@ -19,7 +19,7 @@
 
 ---
 
-#### 🚀 Tecnologias e Ferramentas
+#### 🚀 Technologies and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -39,7 +39,7 @@
 
 ---
 
-#### 📫 Contato
+#### 📫 Contact
 
 <div>
   <a href="mailto:leobkklaser@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
