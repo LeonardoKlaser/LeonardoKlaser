@@ -5,6 +5,8 @@
 - Golang
 - Docker/Kubernetes
 - Cloud Services
+- Terraform
+- CI/CD pipelines with Github Actions
 ---
 #### 💼 Working on
 - [ScrapJobs](./ScrapJobs) - A SaaS platform designed to extract job openings from multiple career sites. Sends a consolidated report to registered users, enriched with AI analytics.
